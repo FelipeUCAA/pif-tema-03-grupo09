@@ -1,0 +1,34 @@
+Qual a capital de Pernambuco?
+Olinda
+Recife
+Caruaru
+Petrolina
+1
+
+Quem criou a linguagem C?
+Dennis Ritchie
+Bill Gates
+Steve Jobs
+Linus Torvalds
+0
+
+Quanto eh 2 + 2?
+1
+2
+3
+4
+3
+
+Qual planeta eh conhecido como planeta vermelho?
+Terra
+Marte
+Venus
+Jupiter
+1
+
+Qual estrutura armazena varios dados diferentes?
+float
+char
+struct
+double
+2
