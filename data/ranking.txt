@@ -1,0 +1,3 @@
+Felipe;10
+Maria;8
+Joao;6
